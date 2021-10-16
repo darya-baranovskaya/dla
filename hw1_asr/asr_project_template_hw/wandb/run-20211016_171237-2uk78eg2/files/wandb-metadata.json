@@ -1,0 +1,24 @@
+{
+    "os": "Darwin-19.4.0-x86_64-i386-64bit",
+    "python": "3.7.4",
+    "heartbeatAt": "2021-10-16T14:12:41.291303",
+    "startedAt": "2021-10-16T14:12:37.991528",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "--config=./hw_asr/configs/batch_overfit.json"
+    ],
+    "state": "running",
+    "program": "train.py",
+    "codePath": "train.py",
+    "git": {
+        "remote": "git@github.com:WrathOfGrapes/asr_project_template.git",
+        "commit": "ff5d81a2daff45a66ff6b69950da194569c0b605"
+    },
+    "email": "darya.baranovskaya01082001@gmail.com",
+    "root": "/Users/daryabaranovskaya/HSE_forth_year/DL_Audio/HW/HW1/asr_project_template",
+    "host": "Daras-MacBook-Pro.local",
+    "username": "daryabaranovskaya",
+    "executable": "/usr/local/bin/python3.7"
+}
